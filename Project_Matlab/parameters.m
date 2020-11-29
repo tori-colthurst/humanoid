@@ -5,10 +5,10 @@ Contact_Damping = 3e4;
 Contact_Trans = 1e-3;
 
 % https://www.engineeringtoolbox.com/friction-coefficients-d_778.html
-% Coff_static = 0.6;
-% Coff_dyn = 0.5;
-Coff_static = 0.1;
-Coff_dyn = 0.02;
+Coff_static = 0.6;
+Coff_dyn = 0.5;
+% Coff_static = 0.1;
+% Coff_dyn = 0.02;
 V_critical = 1e-2;
 
 % Ball size
